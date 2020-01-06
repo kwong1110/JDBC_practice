@@ -2,6 +2,7 @@ package com.kh.modal.service;
 
 // 직접 작성 import
 import static com.kh.common.JDBCTemplate.commit;
+
 import static com.kh.common.JDBCTemplate.getConnection;
 import static com.kh.common.JDBCTemplate.rollback;
 import static com.kh.common.JDBCTemplate.close;
